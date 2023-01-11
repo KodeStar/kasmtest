@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export -o ../public/",
-    "deploy": "next build && next export -o ../public/1.0/ && touch ../public/.nojekyll",
+    "deploy": "next build && next export -o ../public/ && touch ../public/.nojekyll",
     "start": "next start",
     "lint": "next lint"
   },
