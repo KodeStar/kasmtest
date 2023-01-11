@@ -1,0 +1,13 @@
+{
+  "description": "A hackable text editor for the 21st Century.",
+  "docker_registry": "https://index.docker.io/v1/",
+  "name": "kasmweb/atom:develop",
+  "image_src": "atom.png",
+  "categories": [
+    "Development"
+  ],
+  "friendly_name": "Atom",
+  "architecture": [
+    "amd64"
+  ]
+}

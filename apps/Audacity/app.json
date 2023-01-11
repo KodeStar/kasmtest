@@ -1,0 +1,14 @@
+{
+  "description": "An easy-to-use, multi-track audio editor and recorder.",
+  "docker_registry": "https://index.docker.io/v1/",
+  "name": "kasmweb/audacity:develop",
+  "image_src": "audacity.png",
+  "categories": [
+    "Multimedia"
+  ],
+  "friendly_name": "Audacity",
+  "architecture": [
+    "amd64",
+    "arm64"
+  ]
+}
