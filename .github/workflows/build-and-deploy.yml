@@ -2,7 +2,8 @@ name: Build
 
 on:
   push:
-    branches: [ 1.0 ]
+    branches-ignore:
+      - 'gh-pages'
 permissions:
   contents: write
 jobs:
