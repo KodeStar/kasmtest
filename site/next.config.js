@@ -2,16 +2,16 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
+    name: 'Kasm Test',
     description: 'The official store for Kasm supported applications.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/list.json',
+    listUrl: 'https://kodestar.github.io/kasmtest/list.json',
     contactUrl: 'https://kasmweb.com/support',
     schema: '1.0',
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/kasm-apps',
+  basePath: '/kasmtest',
   trailingSlash: true,
   images: {
     unoptimized: true,
